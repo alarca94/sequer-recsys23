@@ -2,7 +2,7 @@
  
 This is our Pytorch implementation of the paper:
 
-Ariza-Casabona, A., Boratto, L., Salamó, M. (2023). First Steps Towards Self-Explaining Sequence-Aware Recommendation, RECSYS'23.
+Ariza-Casabona, A., Salamó, M., Boratto, L., Fenu, G. (2023). Towards Self-Explaining Sequence-Aware Recommendation, RECSYS'23.
 
 Please cite our paper if you use this repository.
 
@@ -37,5 +37,5 @@ The necessary Python packages required to run our code are:
 - torch==1.8.1
 - pandas==1.1.5
 - numpy==1.18.0
-- pickle5
+- pickle5 (For Python 3.7 or lower)
 ````
