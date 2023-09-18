@@ -2,7 +2,7 @@
  
 This is our Pytorch implementation of the paper:
 
-Ariza-Casabona, A., Salamó, M., Boratto, L., Fenu, G. (2023). Towards Self-Explaining Sequence-Aware Recommendation, RECSYS'23.
+Ariza-Casabona, A., Salamó, M., Boratto, L., Fenu, G. (2023). Towards Self-Explaining Sequence-Aware Recommendation. In Proceedings of the 17th ACM Conference on Recommender Systems (RecSys '23). Association for Computing Machinery, New York, NY, USA, 904–911. https://doi.org/10.1145/3604915.3608847
 
 Please cite our paper if you use this repository.
 
